@@ -1,4 +1,4 @@
 git is a distributed  contorl system hahaha.
 git is free doftware distributedunder the GPL.
 git is a hahaha.
-creating a new branch is quick AND simple.
+creating a new branch is quick & simple.
