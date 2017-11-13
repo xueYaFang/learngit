@@ -1,2 +1,2 @@
-git is a distributed version contorl system hahaha.
+git is a distributed  contorl system hahaha.
 git is free doftware distributedunder the GPL.
